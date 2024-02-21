@@ -1,0 +1,6 @@
+segue as cores:
+preto: #000
+amarelo: #E7C236
+Azul: #1D0C82
+vermelho: #F80606
+Verde: #0D7404

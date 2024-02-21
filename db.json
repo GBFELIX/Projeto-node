@@ -1,81 +1,29 @@
 {
   "projects": [
     {
-      "name": "Felix",
-      "budget": "124587",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
+      "data": "2002-03-14",
+      "hora": "15:50",
+      "id": 1
+    },
+    {
+      "data": "2024-02-19",
+      "hora": "15:00",
       "id": 2
     },
     {
-      "name": "adv",
-      "budget": "97865",
-      "category": {
-        "id": "3",
-        "name": "Desing"
-      },
-      "cost": 0,
-      "services": [],
+      "data": "2005-03-15",
+      "hora": "15:20",
       "id": 3
     },
     {
-      "name": "esquilos dançarinos",
-      "budget": "512346",
-      "category": {
-        "id": "4",
-        "name": "planejamento"
-      },
-      "cost": 0,
-      "services": [],
+      "data": "2002-03-15",
+      "hora": "05:03",
       "id": 4
     },
     {
-      "name": "GABRIEL FÉLIX DA SILVA SANTANA",
-      "budget": "4151",
-      "category": {
-        "id": "3",
-        "name": "Desing"
-      },
-      "cost": 0,
-      "services": [],
+      "data": "2000-03-15",
+      "hora": "05:13",
       "id": 5
-    },
-    {
-      "name": "q",
-      "budget": "2",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "www",
-      "budget": "234",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "name": "GABRIEL ",
-      "budget": "45",
-      "category": {
-        "id": "4",
-        "name": "planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 9
     }
   ],
   "categories": [
